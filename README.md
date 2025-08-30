@@ -7,7 +7,7 @@
 
 📧 **Email Me:** **brijeshprasad2160@gmail.com** for collaborations, projects, or networking 😊
 
-- 🔭 **I’m currently working on:** Public Grievance Reporter – A real-time grievance reporting system  
+- 🔭 **I’m currently working on:** Research Project  
 - 🌱 **I’m currently learning:** Advanced Java, TypeScript, Next.js, AWS Basics  
 - 👯 **I’m looking to collaborate on:** Full-stack web development projects  
 - 🤔 **I’m looking for help with:** Advanced Spring Boot integrations  
