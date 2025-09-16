@@ -8,8 +8,8 @@
 📧 **Email Me:** **brijeshprasad2160@gmail.com** for collaborations, projects, or networking 😊
 
 - 🔭 **I’m currently working on:** Research Project  
-- 🌱 **I’m currently learning:** Advanced Java, TypeScript, Next.js, AWS Basics  
-- 👯 **I’m looking to collaborate on:** Full-stack web development projects  
+- 🌱 **I’m currently learning:** Advanced Java, React.js, AWS Basics  
+- 👯 **I’m looking to collaborate on:** Full-stack Java Projects  
 - 🤔 **I’m looking for help with:** Advanced Spring Boot integrations  
 - 💬 **Ask me about:** Java, React.js, SQL  
 - 📫 **How to reach me:** brijeshprasad2160@gmail.com  
