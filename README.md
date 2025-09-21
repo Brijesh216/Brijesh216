@@ -11,7 +11,7 @@
 - 🌱 **I’m currently learning:** Advanced Java, React.js, AWS Basics  
 - 👯 **I’m looking to collaborate on:** Full-stack Java Projects  
 - 🤔 **I’m looking for help with:** Advanced Spring Boot integrations  
-- 💬 **Ask me about:** Java, React.js, SQL  
+- 💬 **Ask me about:** Java, JavaScript, MySQL  
 - 📫 **How to reach me:** brijeshprasad2160@gmail.com  
 - ⚡ **Fun fact:** I debug faster with coffee ☕
 
