@@ -7,7 +7,7 @@
 
 📧 **Email Me:** **brijeshprasad2160@gmail.com** for collaborations, projects, or networking 😊
 
-- 🔭 **I’m currently working on:** Research Project  
+- 🔭 **I’m currently working on:** Research Paper
 - 🌱 **I’m currently learning:** Advanced Java, React.js, AWS Basics  
 - 👯 **I’m looking to collaborate on:** Full-stack Java Projects  
 - 🤔 **I’m looking for help with:** Advanced Spring Boot integrations  
