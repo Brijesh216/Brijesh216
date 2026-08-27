@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4CAF50&size=24&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Brijesh+Prasad;Entry-Level+Full+Stack+Developer;Java+%7C+React.js+%7C+Spring+Boot+%7C+SQL" />
 </p>
 
-**An Entry-Level Full Stack Developer from India**
+**Full Stack Developer from India**
 
 📧 **Email Me:** **brijeshprasad2160@gmail.com** for collaborations, projects, or networking 😊
 
